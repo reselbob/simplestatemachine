@@ -11,7 +11,7 @@ abstract class State{
 class Chase extends State{
 
     void enter(){
-        System.out.println("Now in the Chase state");
+        System.out.println("Now in the Chase state")
     }
 
     void update(){
